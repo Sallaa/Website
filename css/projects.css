@@ -1,0 +1,4 @@
+.ui.striped.very.basic.table {
+    display: none;
+    transition: visibility 1s;
+}
