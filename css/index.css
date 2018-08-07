@@ -1,0 +1,34 @@
+body {
+    background: linear-gradient(-225deg, #3D4E81 0%, #5753C9 48%, #6E7FF3 100%)!important;
+}
+
+div.ui.home.grid.container {
+    max-width: 940px !important;
+}
+
+h1.ui.white.home {
+    color: #FFFFFF;
+    font-weight: bolder;
+    font-size: 3rem;
+    margin-top: 10vh;
+}
+
+p.ui.white.home.text {
+    color: #FFFFFF;
+    font-size: 2rem;
+}
+
+a.ui.white.home.text {
+    color: #FFFFFF;
+    font-size: 2rem;
+    text-decoration: underline;
+    transition: color 0.2s linear;
+}
+
+a.ui.white.home.text:hover {
+    color: #64FFDA;
+}
+
+.ui.text.menu .active.item {
+    color: #FFFFFF;
+}

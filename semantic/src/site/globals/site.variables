@@ -2,5 +2,3 @@
      User Global Variables
 *******************************/
 
-@headerFont        : 'Montserrat', sans-serif;
-@googleFontFamily  : 'Montserrat:300';
