@@ -1,3 +1,3 @@
 $(document).ready(function($) {
-    $('.ui.striped.very.basic.table').transition('fade up');
+    $('.ui.raised.segment').transition('fade up');
 });

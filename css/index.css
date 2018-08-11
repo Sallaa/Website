@@ -4,13 +4,13 @@ body {
 
 div.ui.home.grid.container {
     max-width: 940px !important;
+    margin-top: 5vh;
 }
 
 h1.ui.white.home {
     color: #FFFFFF;
     font-weight: bolder;
     font-size: 3rem;
-    margin-top: 10vh;
 }
 
 p.ui.white.home.text {
