@@ -1,13 +1,3 @@
-// $(document).ready(function () {
-//     $('.home')
-//         .transition('scale');
-//     $('.img.index')
-//         .transition('scale', function () {
-//             $('.btn.resume')
-//                 .transition('scale', function () {
-//                     $('.btn.project')
-//                         .transition('scale');
-//                 });
-//         })
-//     ;
-// });
+$(document).ready(function () {
+    $('.ui.container').hide().delay(500).fadeIn('slow');
+});

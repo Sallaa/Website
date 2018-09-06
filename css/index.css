@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(-225deg, #3D4E81 0%, #5753C9 48%, #6E7FF3 100%)!important;
+    background: linear-gradient(-225deg, #3D4E81 0%, #5753C9 48%, #6E7FF3 100%) fixed !important;
 }
 
 div.ui.home.grid.container {
@@ -27,6 +27,10 @@ a.ui.white.home.text {
 
 a.ui.white.home.text:hover {
     color: #64FFDA;
+}
+
+.ui.container {
+    display: none;
 }
 
 .ui.text.menu .active.item {
