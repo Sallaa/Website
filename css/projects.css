@@ -19,3 +19,7 @@ div.fixed.top {
     display: none;
     transition: visibility 1s;
 }
+
+a.item i.icon {
+    height: inherit;
+}
