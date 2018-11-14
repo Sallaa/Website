@@ -1,4 +1,4 @@
 .idea
 .DS_Store
-.semantic
-.node_modules
+semantic
+node_modules
