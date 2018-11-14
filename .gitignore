@@ -2,3 +2,5 @@
 .DS_Store
 semantic
 node_modules
+semantic.json
+package-lock.json
