@@ -1,6 +1,12 @@
-.idea
+# macOS files
 .DS_Store
-semantic
+
+# npm
 node_modules
-semantic.json
-package-lock.json
+
+# Gatsby dependencies
+.cache
+yarn-error.log
+
+# Gatsby Build directory
+/public
