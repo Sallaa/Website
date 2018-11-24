@@ -1,10 +1,5 @@
 body {
     background: linear-gradient(-225deg, #3D4E81 0%, #5753C9 48%, #6E7FF3 100%) fixed !important;
-    background-attachment: fixed!important;
-<<<<<<< HEAD
-    min-height: 100% !important;
-=======
->>>>>>> 55ee426bba376f36e44684e250ba5bf811ac60ba
 }
 
 div.ui.home.grid.container {
