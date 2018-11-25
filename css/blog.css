@@ -2,6 +2,13 @@ body {
     background-color : #F5EEE9 !important;
 }
 
+.blog-title{
+    font-family: EBGaramond-Medium;
+    font-size: 50px;
+    color: #000000;
+    letter-spacing: 1.18px;
+}
+
 .title-shadow {
     position: absolute;
     vertical-align: text-bottom !important;
@@ -23,7 +30,14 @@ body {
     color: #4A4A4A;
     letter-spacing: 1.37px;
 }
-
+.article-text{
+    font-family: Montserrat;
+    font-size: 20px;
+    color: #000000;
+    letter-spacing: 1.18px;
+    text-align: justify;
+    text-justify: inter-word;
+}
 .row.article {
     padding-bottom: 0!important;
 }
