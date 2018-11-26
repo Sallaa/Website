@@ -1,11 +1,11 @@
 body {
     background: linear-gradient(-225deg, #3D4E81 0%, #5753C9 48%, #6E7FF3 100%) fixed !important;
-    height: auto!important;
 }
 
 div.ui.home.grid.container {
     max-width: 940px !important;
     margin-top: 5vh;
+    overflow: hidden;
 }
 
 h1.ui.white.home {
