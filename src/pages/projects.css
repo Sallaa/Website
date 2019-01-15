@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(to right, #d3cce3, #e9e4f0) fixed !important;
+}
+
+div.fixed {
+    width: 100%;
+    position: fixed;
+}
+
+div.fixed.top {
+    top: 0;
+}
+
+.ui.centered.grid.container.projects {
+    max-width: 950px !important;
+}
+
+.ui.raised.segment {
+    display: none;
+    transition: visibility 1s;
+}
+
+a.item i.icon {
+    height: inherit;
+}

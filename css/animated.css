@@ -1,0 +1,12 @@
+.ui.centered.grid.container.projects.animated {
+     opacity: 0 ;
+     -webkit-transition: opacity 2s ease-in !important;
+     -moz-transition: opacity 2s ease-in !important;
+     -ms-transition: opacity 2s ease-in !important;
+     -o-transition: opacity 2s ease-in !important;
+     transition: opacity 2s ease-in !important;
+}
+
+.ui.centered.grid.container.projects.animated.load {
+    opacity: 1;
+}

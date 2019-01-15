@@ -1,6 +1,6 @@
-import React from "react"
-import PropTypes from "prop-types"
-import projectsCss from "./css/projects.css"
+import React from "react";
+import PropTypes from "prop-types";
+import projectsCss from "./css/projects.css";
 
 export default class HTML extends React.Component {
   render() {

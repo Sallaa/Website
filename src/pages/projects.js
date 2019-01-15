@@ -1,6 +1,12 @@
-import React from "react"
+import React from "react";
+// import projectscss from './projects.css';
+import Helmet from 'react-helmet';
 
 export default () => (
+    <Helmet>
+        <link rel="stylesheet" type="text/css" href="css/header.css"/>
+        {/* <link rel="stylesheet" type="text/css" href={projectscss}/> */}
+    </Helmet>,
     <div class="ui centered grid container projects">
         <div class="row">
             <div class="ui center aligned raised segment">
